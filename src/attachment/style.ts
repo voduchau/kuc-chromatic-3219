@@ -48,7 +48,7 @@ export const ATTACHMENT_CSS = `
     display: none;
   }
   .kuc-attachment__group__files {
-    border: solid 1px green;
+    border: solid 1px yellow;
     background-color: #eeeeee;
     padding: 16px 4px;
     display: block;
