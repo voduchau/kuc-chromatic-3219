@@ -99,7 +99,8 @@ let exportAttachment;
     }
     willUpdate(changedProperties: PropertyValues) {
       console.log('xx')
-      console.log('123123')
+      console.log('123123');
+      console.log('xx')
       if (changedProperties.has("language")) {
         this._locale = this._getLocale();
       }
