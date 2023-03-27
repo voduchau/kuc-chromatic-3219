@@ -102,6 +102,7 @@ let exportAttachment;
       console.log('123123');
       console.log('xx');
       console.log('xx123');
+      console.log('xx123');
       if (changedProperties.has("language")) {
         this._locale = this._getLocale();
       }
