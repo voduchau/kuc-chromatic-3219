@@ -23,9 +23,9 @@ export const CHECKBOX_CSS = `
   }
   kuc-checkbox {
     font-size: 14px;
-    color: #333333;
+    color: #555556;
     display: inline-table;
-    vertical-align: top;
+    vertical-align: bottom;
     width: 239px;
     min-width: 239px;
    line-height: 1.5;
