@@ -23,7 +23,7 @@ export const CHECKBOX_CSS = `
   }
   kuc-checkbox {
     font-size: 14px;
-    color: #555555;
+    color: #555556;
     display: inline-table;
     vertical-align: bottom;
     width: 239px;
